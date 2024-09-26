@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fall-detection.github.io/static/css/main.7aae6929.css",
+    "main.js": "/fall-detection.github.io/static/js/main.ca12492e.js",
+    "static/js/453.71192225.chunk.js": "/fall-detection.github.io/static/js/453.71192225.chunk.js",
+    "index.html": "/fall-detection.github.io/index.html",
+    "main.7aae6929.css.map": "/fall-detection.github.io/static/css/main.7aae6929.css.map",
+    "main.ca12492e.js.map": "/fall-detection.github.io/static/js/main.ca12492e.js.map",
+    "453.71192225.chunk.js.map": "/fall-detection.github.io/static/js/453.71192225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aae6929.css",
+    "static/js/main.ca12492e.js"
+  ]
+}
