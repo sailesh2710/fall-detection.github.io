@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/fall-detection.github.io/static/css/main.7aae6929.css",
-    "main.js": "/fall-detection.github.io/static/js/main.ca12492e.js",
+    "main.css": "/fall-detection.github.io/static/css/main.9b7fa2d8.css",
+    "main.js": "/fall-detection.github.io/static/js/main.b0e2eb3b.js",
     "static/js/453.71192225.chunk.js": "/fall-detection.github.io/static/js/453.71192225.chunk.js",
+    "static/media/app1.png": "/fall-detection.github.io/static/media/app1.3b9a4f8291e399476b91.png",
+    "static/media/algo3.png": "/fall-detection.github.io/static/media/algo3.ef94379cd5353f140c56.png",
+    "static/media/app2.png": "/fall-detection.github.io/static/media/app2.cd9383a3475192b6b6a5.png",
+    "static/media/sensors.webp": "/fall-detection.github.io/static/media/sensors.d14e0f41008722459d65.webp",
+    "static/media/classfication.webp": "/fall-detection.github.io/static/media/classfication.253a3ae611871d086c63.webp",
+    "static/media/algo1.png": "/fall-detection.github.io/static/media/algo1.0264b521c2cc3b56ccf5.png",
+    "static/media/algo2.png": "/fall-detection.github.io/static/media/algo2.dda0a2fa2ba6bc34b1b8.png",
+    "static/media/homepageimage.jpg": "/fall-detection.github.io/static/media/homepageimage.f8008b87ed50de3fe682.jpg",
+    "static/media/introimage.png": "/fall-detection.github.io/static/media/introimage.28124c9571ada3f456ab.png",
+    "static/media/arch.png": "/fall-detection.github.io/static/media/arch.6b39c7ff3d8e6103e5a9.png",
     "index.html": "/fall-detection.github.io/index.html",
-    "main.7aae6929.css.map": "/fall-detection.github.io/static/css/main.7aae6929.css.map",
-    "main.ca12492e.js.map": "/fall-detection.github.io/static/js/main.ca12492e.js.map",
+    "main.9b7fa2d8.css.map": "/fall-detection.github.io/static/css/main.9b7fa2d8.css.map",
+    "main.b0e2eb3b.js.map": "/fall-detection.github.io/static/js/main.b0e2eb3b.js.map",
     "453.71192225.chunk.js.map": "/fall-detection.github.io/static/js/453.71192225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aae6929.css",
-    "static/js/main.ca12492e.js"
+    "static/css/main.9b7fa2d8.css",
+    "static/js/main.b0e2eb3b.js"
   ]
 }
