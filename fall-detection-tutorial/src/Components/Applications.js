@@ -29,7 +29,7 @@ const Applications = () => {
         <h3>1. Fall Detection and Safety Accessories Monitoring System</h3>
         <img src={app1} alt="[Image Description]" className="algorithm-image" />
         <p>
-          The proposed application[2] for fall detection utilizes a Raspberry Pi to 
+          The proposed application<b>[2]</b> for fall detection utilizes a Raspberry Pi to 
           continuously monitor the environment. The system employs a deep 
           learning algorithm called YOLOv8 for fall detection, and it also 
           detects safety accessories such as helmets and vests through 
