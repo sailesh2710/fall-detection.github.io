@@ -1,0 +1,39 @@
+.bibliography-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .bibliography-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bibliography-list li {
+    margin-bottom: 20px;
+  }
+  
+  .bibliography-list a {
+    text-decoration: none;
+    color: #007BFF; /* Bootstrap primary color */
+  }
+  
+  .bibliography-list a:hover {
+    text-decoration: underline;
+    color: #0056b3; /* Darker blue for hover effect */
+  }
+  
+  .bibliography-list p {
+    margin: 5px 0 0 20px; /* Indent synopsis */
+    font-size: 1em;
+    color: #555;
+  }

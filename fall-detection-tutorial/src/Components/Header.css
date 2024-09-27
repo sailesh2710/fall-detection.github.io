@@ -1,24 +1,40 @@
 header {
-    background-color: #282c34;
-    padding: 20px;
-    color: rgb(231, 46, 46);
-  }
-  
+  background-color: #1e66ae; /* Dark gray background for better contrast */
+  padding: 45px 10%; /* Increased padding for a taller header */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Remove default margin */
+  display: flex; /* Use flexbox for horizontal alignment */
+  justify-content: flex-start; /* Align items to the left */
+}
+
+nav ul li {
+  margin: 0 20px; /* Increased margin for better spacing */
+}
+
+nav ul li a {
+  color: #00796b; /* White text for high contrast against dark background */
+  text-decoration: none; /* Remove underline */
+  font-weight: 500; /* Medium weight for better readability */
+  font-size: 18px; /* Increased font size */
+  transition: color 0.3s, text-shadow 0.3s; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+  color: rgb(231, 46, 46); /* Highlight color on hover */
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Add a shadow effect on hover */
+}
+
+/* Additional styling for responsive design */
+@media (max-width: 768px) {
   nav ul {
-    list-style-type: none;
-    padding: 0;
+      flex-direction: column; /* Stack items on smaller screens */
   }
-  
   nav ul li {
-    display: inline;
-    margin: 0 10px;
+      margin: 10px 0; /* Adjust margin for vertical layout */
   }
-  
-  nav ul li a {
-    color: rgb(205, 15, 15);
-    text-decoration: none;
-  }
-  
-  nav ul li a:hover {
-    text-decoration: underline;
-  }
+}

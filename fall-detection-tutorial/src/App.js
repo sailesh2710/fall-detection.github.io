@@ -7,6 +7,7 @@ import Algorithms from './Components/Algorithm';
 import Applications from './Components/Applications';
 import Bibliography from './Components/Bibliography';
 import Quiz from './Components/Quiz';
+import './App.css'; // Ensure to import App.css for styling
 
 function App() {
   return (
